@@ -2,7 +2,7 @@
     "name": "Hello World2",
     "description": "Atlassian Connect app",
     "key": "com.matt.myapp",
-    "baseUrl": "http://54.161.185.238:8000",
+    "baseUrl": "http://54.161.185.238",
     "vendor": {
         "name": "Example, Inc.",
         "url": "http://example.com"
