@@ -2,7 +2,7 @@
     "name": "Hello World2",
     "description": "Atlassian Connect app",
     "key": "com.matt.myapp",
-    "baseUrl": "https://b24b-174-86-74-179.ngrok-free.app",
+    "baseUrl": "https://c937-174-86-74-179.ngrok-free.app",
     "vendor": {
         "name": "Example, Inc.",
         "url": "http://example.com"
@@ -14,7 +14,7 @@
     "modules": {
         "generalPages": [
             {
-                "url": "/helloworld.html",
+                "url": "helloworld.html",
                 "key": "hello-world314",
                 "location": "system.top.navigation.bar",
                 "name": {
